@@ -1,8 +1,8 @@
-let myToken = 'auto';
+let myToken = 'cf';
 let botToken = '';
 let chatID = '';
 let enableTG = 0;
-let fileName = 'am-cf-sub-rss';
+let fileName = 'sub-rss';
 let subUpdateTime = 6;
 let timestamp = 4102329600000;
 let total = 99 * 1125899906842624;
