@@ -18,7 +18,7 @@ let urls = [
     //'https://phpll.ggff.net/cf?sub'
 ];
 
-let subConverter = "url.v1.mk";
+let subConverter = "psub.pptt.us.kg";
 let subConfig = "https://raw.githubusercontent.com/amclubs/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini";
 let subProtocol = 'https';
 
