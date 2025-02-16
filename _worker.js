@@ -9,7 +9,7 @@ let total = 99 * 1125899906842624;
 let download = Math.floor(Math.random() * 1099511627776);
 let upload = download;
 
-//vless://866853eb-5293-4f09-bf00-e13eb237c655@visa.com:443?encryption=none&security=tls&sni=worker.amcloud.filegear-sg.me&fp=random&type=ws&host=worker.amcloud.filegear-sg.me#youtube.com%2F%40AM_CLUB
+//vless://98caf934-d51f-47d3-89ec-09ea781839c2@156.238.19.8:443?encryption=none&security=tls&sni=vl.amclubtest.us.kg&fp=randomized&type=ws&host=vl.amclubtest.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20JP
 let mainData = `
 vless://98caf934-d51f-47d3-89ec-09ea781839c2@156.238.19.8:443?encryption=none&security=tls&sni=vl.amclubtest.us.kg&fp=randomized&type=ws&host=vl.amclubtest.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20JP
 `;
