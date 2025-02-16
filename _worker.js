@@ -15,7 +15,7 @@ vless://98caf934-d51f-47d3-89ec-09ea781839c2@156.238.19.8:443?encryption=none&se
 `;
 
 let urls = [
-    //'https://am.amclubs.us.kg/auto?sub'
+    //'https://phpll.ggff.net/cf?sub'
 ];
 
 let subConverter = "url.v1.mk";
