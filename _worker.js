@@ -11,9 +11,7 @@ let upload = download;
 
 //vless://866853eb-5293-4f09-bf00-e13eb237c655@visa.com:443?encryption=none&security=tls&sni=worker.amcloud.filegear-sg.me&fp=random&type=ws&host=worker.amcloud.filegear-sg.me#youtube.com%2F%40AM_CLUB
 let mainData = `
-vless://98caf934-d51f-47d3-89ec-09ea781839c2@visa.cn:443?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#youtube.com%2F%40AM_CLUB%20%E8%AE%A2%E9%98%85%E9%A2%91%E9%81%93%E8%8E%B7%E5%8F%96%E6%9B%B4%E5%A4%9A%E6%95%99%E7%A8%8B
-vless://98caf934-d51f-47d3-89ec-09ea781839c2@icook.hk:443?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#t.me%2FAM_CLUBS%20%E5%8A%A0%E5%85%A5%E4%BA%A4%E6%B5%81%E7%BE%A4%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
-vless://98caf934-d51f-47d3-89ec-09ea781839c2@time.is:443?encryption=none&security=tls&sni=vless.amclubss.us.kg&fp=randomized&type=ws&host=vless.amclubss.us.kg&path=%2F%3Fed%3D2560#github.com%2Famclubs%20GitHub%E4%BB%93%E5%BA%93%E6%9F%A5%E7%9C%8B%E6%9B%B4%E5%A4%9A%E9%A1%B9%E7%9B%AE
+vless://98caf934-d51f-47d3-89ec-09ea781839c2@156.238.19.8:443?encryption=none&security=tls&sni=vl.amclubtest.us.kg&fp=randomized&type=ws&host=vl.amclubtest.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20JP
 `;
 
 let urls = [
